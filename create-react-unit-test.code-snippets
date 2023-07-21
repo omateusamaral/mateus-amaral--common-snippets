@@ -1,0 +1,22 @@
+{
+	"React JS unit test":{
+		"prefix":"rut",
+		"body":[
+			"import { render, screen } from '@testing-library/react';",
+			"",
+			"describe('<$TM_FILENAME_BASE/>', () => {",
+			"it('should render component', () => {",
+			"//Arrange",
+			"render(<$TM_FILENAME_BASE/>);",
+			"",
+			"//Act",
+			"",
+			"//Assert",
+			"",
+			"expect(screen).toBeDefined();",
+			"});",
+			"});"
+			
+		]
+	}
+}
