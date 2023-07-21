@@ -1,0 +1,14 @@
+{
+  "name": "mateus-amaral--common-snippets",
+  "displayName": "mateus amaral common snippets",
+  "description": "Common snippets for better development",
+  "version": "1.0.0",
+  "publisher": "omateusamaral",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omateusamaral/mateus-amaral--common-snippets.git"
+  },
+  "engines": {
+    "vscode": "^1.0.0"
+  }
+}
