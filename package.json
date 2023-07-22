@@ -2,7 +2,7 @@
   "name": "mateus-amaral--common-snippets",
   "displayName": "mateus amaral common snippets",
   "description": "Common snippets for a better development experience",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "MateusAmaral",
   "repository": {
     "type": "git",
@@ -14,11 +14,11 @@
   "contributes": {
     "snippets": [
       {
-        "language": "*",
+        "language": "typescriptreact",
         "path": "./create-function-react.code-snippets"
       },
       {
-        "language": "*",
+        "language": "javascriptreact",
         "path": "./create-react-unit-test.code-snippets"
       }
     ]
