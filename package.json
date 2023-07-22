@@ -1,8 +1,8 @@
 {
   "name": "mateus-amaral--common-snippets",
   "displayName": "mateus amaral common snippets",
-  "description": "Common snippets for a better development experience",
-  "version": "1.0.4",
+  "description": "Common snippets for a better development experience.",
+  "version": "1.0.5",
   "publisher": "MateusAmaral",
   "repository": {
     "type": "git",
