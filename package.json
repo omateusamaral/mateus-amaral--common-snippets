@@ -19,6 +19,14 @@
       },
       {
         "language": "javascriptreact",
+        "path": "./create-function-react.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./create-react-unit-test.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
         "path": "./create-react-unit-test.code-snippets"
       }
     ]
