@@ -27,7 +27,8 @@
 			");",
 			"}"
 		],
-		"description": "Create a template for your react component",
+		"description": "Create a template for your react component.",
+		"scope": "typescriptreact,javascriptreact",
 		"isFileTemplate": true
 		}
 }

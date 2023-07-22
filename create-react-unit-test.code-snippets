@@ -17,7 +17,8 @@
 			"});",
 			"});"
 		],
-    "description": "Create a template for your react unit test",
+    "description": "Create a template for your react unit test.",
+		"scope": "typescriptreact,javascriptreact",
 		"isFileTemplate": true,
 	}
 }
