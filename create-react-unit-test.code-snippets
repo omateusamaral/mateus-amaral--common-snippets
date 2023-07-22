@@ -18,6 +18,6 @@
 			"});"
 		],
     "description": "Create a template for your react unit test",
-		"isFileTemplate": true
+		"isFileTemplate": true,
 	}
 }

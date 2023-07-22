@@ -2,13 +2,28 @@
   "name": "mateus-amaral--common-snippets",
   "displayName": "mateus amaral common snippets",
   "description": "Common snippets for a better development experience",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "publisher": "MateusAmaral",
   "repository": {
     "type": "git",
     "url": "https://github.com/omateusamaral/mateus-amaral--common-snippets.git"
   },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "*",
+        "path": "./create-function-react.code-snippets"
+      },
+      {
+        "language": "*",
+        "path": "./create-react-unit-test.code-snippets"
+      }
+    ]
+  },
   "engines": {
-    "vscode": "^1.0.0"
+    "vscode": "^2.15.0"
   }
 }
