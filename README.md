@@ -1,5 +1,7 @@
 # mateus-amaral--common-snippets
 
+download for vscode: https://marketplace.visualstudio.com/items?itemName=MateusAmaral.mateus-amaral--common-snippets
+
 Common snippets for a better development experience
 
 Examples for React Component:
