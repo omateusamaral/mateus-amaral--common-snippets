@@ -2,7 +2,7 @@
 	"React JS functional Component":{
 		"prefix":"rfc",
 		"body":[
-			"export function $TM_FILENAME_BASE(){",
+			"export default function $TM_FILENAME_BASE(){",
 			"return (",
 			" <div>",
 			"  <h1>$TM_FILENAME_BASE</h1>",

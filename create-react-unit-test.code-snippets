@@ -3,6 +3,7 @@
 		"prefix":"rut",
 		"body":[
 			"import { render, screen } from '@testing-library/react';",
+			"import '@testing-library/jest-dom'",
 			"",
 			"describe('<$TM_FILENAME_BASE/>', () => {",
 			"it('should render component', () => {",
@@ -13,7 +14,7 @@
 			"",
 			"//Assert",
 			"",
-			"expect(screen).toBeDefined();",
+			"expect(screen.getByText($TM_FILENAME_BASE)).toBeInTheDocument();",
 			"});",
 			"});"
 		],
